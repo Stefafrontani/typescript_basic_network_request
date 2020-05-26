@@ -1,0 +1,23 @@
+{
+  "name": "typescript_basic_network_request",
+  "version": "1.0.0",
+  "description": "Make a network request to fetch some JSON and print the result. Throwing some \"accidental\" errors to show the importance of typescript or what it is meant to solve.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefafrontani/typescript_basic_network_request.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stefafrontani/typescript_basic_network_request/issues"
+  },
+  "homepage": "https://github.com/Stefafrontani/typescript_basic_network_request#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
